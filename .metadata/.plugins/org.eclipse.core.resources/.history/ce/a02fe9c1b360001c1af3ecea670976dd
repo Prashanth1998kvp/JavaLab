@@ -1,0 +1,25 @@
+
+public class Student {
+	int sid;
+	String name;
+	
+	public Student(int sid, String name) {
+		this.sid=sid;
+		this.name=name;
+	}
+		
+	public int getsid() {
+		return sid;
+	}
+	public void setsid(int sid) {
+		this.sid=sid;
+	
+	}
+	public String getname() {
+		return name;
+	}
+	public void setname(String name) {
+		this.name=name;
+	}
+
+}

@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Dec 19 17:20:02 IST 2021
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\prash\\eclipse-workspace\\Lab9\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.13.jar=WEB-INF/lib/spring-web-5.3.13.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\prash\\eclipse-workspace\\Lab8\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.3.13.jar=WEB-INF/lib/spring-web-5.3.13.jar

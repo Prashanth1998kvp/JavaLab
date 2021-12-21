@@ -1,0 +1,7 @@
+package com;
+@org.springframework.stereotype.Controller
+public class Controller1 {
+	
+	
+
+}

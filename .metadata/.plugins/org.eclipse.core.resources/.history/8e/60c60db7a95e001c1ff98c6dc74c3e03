@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>product</title>
+</head>
+<body>
+<form action="display">
+custname<input type = "cusname" name="cusname">
+custadd<input type = "cusname" name="cusname">
+price<input type = "price" name="price">
+<input type = "submit">
+
+</form>
+</body>
+</html>

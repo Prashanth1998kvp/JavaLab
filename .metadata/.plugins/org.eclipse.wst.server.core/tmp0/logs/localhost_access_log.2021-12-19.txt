@@ -1,0 +1,8 @@
+127.0.0.1 - - [19/Dec/2021:17:00:13 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Dec/2021:17:00:14 +0530] "GET /Lab8/WEB-INF/classes/com/Controller1.java HTTP/1.1" 404 682
+127.0.0.1 - - [19/Dec/2021:17:03:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Dec/2021:17:03:53 +0530] "GET /Lab8/ HTTP/1.1" 200 370
+0:0:0:0:0:0:0:1 - - [19/Dec/2021:17:04:22 +0530] "GET /Lab8/Display?product_id=01&product_name=prashanth&product_price=20 HTTP/1.1" 200 152
+127.0.0.1 - - [19/Dec/2021:17:20:13 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Dec/2021:17:20:14 +0530] "GET /Lab9/ HTTP/1.1" 200 336
+0:0:0:0:0:0:0:1 - - [19/Dec/2021:17:20:25 +0530] "GET /Lab9/Display?custid=12&custname=asjnadkjndadjnkasjdn&custprice=21 HTTP/1.1" 200 143
